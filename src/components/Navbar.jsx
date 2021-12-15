@@ -9,7 +9,7 @@ function Navbar() {
                     <ul className="nav">
                         <img src={logo} alt="" style={{ height: "40px" }} />
                         <li>
-                            <Link to="/" className="nav-link"> Beranda</Link>
+                            <Link to="/" className="nav-link"> Home</Link>
                         </li>
                         <li>
                             <Link to="/manajemen-buku" className="nav-link"> Manajemen Buku</Link>
